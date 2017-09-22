@@ -1,0 +1,21 @@
+\contentsline {chapter}{\numberline {1}Business Architecture}{5}
+\contentsline {section}{\numberline {1.1}Mission}{5}
+\contentsline {section}{\numberline {1.2}Vision}{5}
+\contentsline {section}{\numberline {1.3}Challenges}{6}
+\contentsline {section}{\numberline {1.4}Merges \& Acquisitions}{6}
+\contentsline {section}{\numberline {1.5}Future Growth}{7}
+\contentsline {chapter}{\numberline {2}Information Architecture}{9}
+\contentsline {section}{\numberline {2.1}Nature Of Information}{9}
+\contentsline {section}{\numberline {2.2}Information Souq.com Deals With}{9}
+\contentsline {section}{\numberline {2.3}Information Growth Rate}{9}
+\contentsline {section}{\numberline {2.4}Most suitable storage solution}{10}
+\contentsline {section}{\numberline {2.5}How information architecture will affect the future capabilities?}{10}
+\contentsline {chapter}{\numberline {3}IT Architecture}{11}
+\contentsline {section}{\numberline {3.1}IT Infrastructure Capabilities}{11}
+\contentsline {section}{\numberline {3.2}Does Cloud Fit Souq.com current/future needs?}{11}
+\contentsline {section}{\numberline {3.3}Facing Information Architecture Challenges}{11}
+\contentsline {section}{\numberline {3.4}What Model Of Cloud Does Souq.com Need?}{11}
+\contentsline {section}{\numberline {3.5}The Criteria To Choose Between Different Cloud Services Providers}{12}
+\contentsline {chapter}{\numberline {4}Software Architecture}{13}
+\contentsline {section}{\numberline {4.1}Best Software Architecture For Souq.com}{13}
+\contentsline {section}{\numberline {4.2}How This Software Architecture Helps Facing Challenges}{13}
